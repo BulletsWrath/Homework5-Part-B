@@ -1,0 +1,7 @@
+#1. To run the code ensure that you have the proper libraries installed, mainly pytorch. 
+
+#2. ensure that the folder containing the images is renamed to 'data'
+
+#3. ensure that the path in the code matches the one on your system
+
+#4. Hit run.
